@@ -1,0 +1,113 @@
+﻿@using ProjetoBase.Models
+@using ProjetoBase.DAO
+@using ProjetoBase.DTO
+@using ProjetoBase.Helpers
+@using ProjetoBase.Models
+@model ProjetoBase.DTO.FuncionarioDTO
+
+@{
+    ViewBag.Title = "Cadastro de Funcionario";
+    List<string> erros = ViewBag.erros;
+}
+
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros != null && erros.Count() > 0)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var erro in erros)
+                            {
+                                <li>@erro</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="red">
+                        <i class="material-icons">mode_edit</i>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="card-title">Cadastro de Funcionario</h4>
+                        <form class="form-horizontal" action="@Url.Action("CreateFuncionarioUser", "Funcionario")" method="post">
+
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Login</label>
+                                <div class="col-lg-8">
+                                    @if (ViewBag.Login != null)
+                                    {
+                                        <input name="Login" id="Login" value="@ViewBag.Login" class="form-control border-input" required="" aria-required="true">
+                                    }
+                                    else
+                                    {
+                                        <input name="Login" id="Login" class="form-control border-input" required="" aria-required="true">
+                                    }
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Senha</label>
+                                <div class="col-lg-8">
+                                    @if (ViewBag.Senha != null)
+                                    {
+                                        <input name="Senha" id="Senha" value="@ViewBag.Senha" class="form-control border-input" required="" aria-required="true">
+                                    }
+                                    else
+                                    {
+                                        <input name="Senha" id="Senha" class="form-control border-input" required="" aria-required="true">
+                                    }
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Níveis de acesso</label>
+                                <div class="col-lg-8">
+                                    <select name="NivelAcessso" id="NivelAcessso" class="selectpicker" data-size="7" data-style="btn btn-danger" title="Selecione">
+                                        <option value="0" disabled selected>Selecione o Nivel de Acessso</option>
+                                        @foreach (var item in FuncionarioNivelAcessoDao.FindAll())
+                                        {
+                                            if (ViewBag.Login != null)
+                                            {
+                                                var funcao = UsuarioDao.FindByLogin(ViewBag.Login).funcao;
+                                                if (funcao == item.Nome)
+                                                {
+                                                    <option selected value="@item.Nome">@item.Nome</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.Nome">@item.Nome</option>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <option value="@item.Nome">@item.Nome</option>
+                                            }
+
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+
+                            <!--ID-->
+                            <input hidden value="@ViewBag.ID" name="ID" id="ID" />
+
+                            <!--Botões-->
+                            <div class="form-group">
+                                <div class="col-lg-offset-2 col-lg-10">
+                                    <button class="btn btn-danger" type="submit">Salvar</button>
+                                    <a class="btn btn-white" href="@Url.Action("Index", "Funcionario")">Voltar</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--   Core JS Files   -->
+@Scripts.Render("~/bundles/jquery")
+
+<!--   More JS   -->
+@Scripts.Render("~/bundles/FuncionarioIncluir")

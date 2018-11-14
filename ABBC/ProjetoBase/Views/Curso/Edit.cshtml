@@ -1,0 +1,82 @@
+﻿@using ProjetoBase.Models
+@using ProjetoBase.DAO
+@using ProjetoBase.DTO
+@using ProjetoBase.Helpers
+@using ProjetoBase.Models
+@model ProjetoBase.DTO.CursoDTO
+
+@{
+    ViewBag.Title = "Editar Curso";
+    List<string> erros = ViewBag.erros;
+}
+
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros != null && erros.Count() > 0)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var erro in erros)
+                            {
+                                <li>@erro</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="red">
+                        <i class="material-icons">mode_edit</i>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="card-title">Editar Curso</h4>
+                        <form class="form-horizontal" action="@Url.Action("Edit", "Curso")" method="post">
+
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Nome</label>
+                                <div class="col-lg-8">
+                                    <input name="Nome" id="Nome" min="1" value="@Model.Nome" class="form-control border-input" required="" aria-required="true">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Carga Horária</label>
+                                <div class="col-lg-4">
+                                    <input type="number" name="CargaHoraria" id="CargaHoraria" value="@Model.CargaHoraria" class="form-control border-input" required="" aria-required="true">
+                                </div>(horas)
+                            </div>
+                            <div class="form-group">
+                           
+                                <div class="col-lg-offset-1 col-lg-10">
+                                    <div class="checkbox i-checks">
+                                        <label>
+                                            <input type="checkbox" name="Ativo" value="@(Model.Ativo ? "checked" : "")"><i></i> Ativo
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <input hidden value="@ViewBag.ID" name="ID" id="ID" />
+                            @*<input hidden value="1" name="Ativo" id="Ativo" />*@
+                            <input hidden value="@DateTime.Now" name="DataAlteracao" id="DataAlteracao" />
+
+                            <!--Botões-->
+                            <div class="form-group">
+                                <div class="col-lg-offset-2 col-lg-10">
+                                    <button class="btn btn-danger" type="submit">Salvar</button>
+                                    <a class="btn btn-white" href="@Url.Action("Index", "Curso")">Voltar</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--   Core JS Files   -->
+@Scripts.Render("~/bundles/jquery")
+
+<!--   More JS   -->
+@Scripts.Render("~/bundles/CursoIncluir")

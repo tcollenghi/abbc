@@ -1,0 +1,151 @@
+﻿@using ProjetoBase.Models
+@using ProjetoBase.DAO
+@using ProjetoBase.DTO
+@using ProjetoBase.Helpers
+@using ProjetoBase.Models
+
+@{
+    ViewBag.Title = "Aluno x Curso x Turma x Plano";
+    List<string> erros = ViewBag.erros;
+}
+
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros != null && erros.Count() > 0)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var erro in erros)
+                            {
+                                <li>@erro</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="red">
+                        <i class="material-icons">mode_edit</i>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="card-title">Aluno x Curso x Turma x Plano</h4>
+                        <form class="form-horizontal" action="@Url.Action("AlunoLinqCursoTurma", "Aluno")" method="post">
+                            @foreach (var item in AlunoDao.FindAllByIDs(ViewBag.ID))
+                            {
+                                <div class="form-group">
+                                    <label class="col-lg-offset-1 col-lg-1 col-form-label">Aluno</label>
+                                    <div class="col-lg-8">
+                                        <h6>
+                                            @item.Nome
+                                        </h6>
+                                    </div>
+                                </div>
+                            }
+
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Curso</label>
+                                <div class="col-lg-8">
+                                    <select name="idCurso" id="idCurso" class="selectpicker" data-size="7" data-style="btn btn-danger" title="Selecione um Curso">
+                                        <option value="0" disabled selected>Selecione um Curso</option>
+                                        @foreach (var item in CursoDao.FindAll())
+                                        {
+                                            if (ViewBag.ID != 0)
+                                            {
+                                                var cu = AlunoDao.FindAllByIDAluno(ViewBag.ID).Curso;
+                                                if (cu == item.ID)
+                                                {
+                                                    <option selected value="@item.ID">@item.Nome</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.ID">@item.Nome</option>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <option value="@item.ID">@item.Nome</option>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Turma</label>
+                                <div class="col-lg-8">
+                                    <select name="idTurma" id="idTurma" class="selectpicker" data-size="7" data-style="btn btn-danger" title="Selecione uma Turma">
+                                        <option value="0" disabled selected>Selecione uma Turma</option>
+                                        @foreach (var item in TurmaDao.FindAll())
+                                        {
+                                            if (ViewBag.ID != 0)
+                                            {
+                                                var tm = AlunoDao.FindAllByIDAluno(ViewBag.ID).Turma;
+                                                if (tm == item.ID)
+                                                {
+                                                    <option selected value="@item.ID">@item.Nome</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.ID">@item.Nome</option>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <option value="@item.ID">@item.Nome</option>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-lg-offset-1 col-lg-1 col-form-label">Turma</label>
+                                <div class="col-lg-8">
+                                    <select name="idPlanoPagamento" id="idPlanoPagamento" class="selectpicker" data-size="7" data-style="btn btn-danger" title="Selecione um Plano de Pagamento">
+                                        <option value="0" disabled selected>Selecione um Plano de Pagamento</option>
+                                        @foreach (var item in PlanoPagamentoDao.FindAll())
+                                        {
+                                            if (ViewBag.ID != 0)
+                                            {
+                                                var pp = AlunoDao.FindAllByIDAluno(ViewBag.ID).PlanoPagamento;
+                                                if (pp == item.ID)
+                                                {
+                                                    <option selected value="@item.ID">@item.Nome</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.ID">@item.Nome</option>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <option value="@item.ID">@item.Nome</option>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+
+                            <input hidden value="@ViewBag.ID" name="idAluno" id="idAluno" />
+
+                            <!--Botões-->
+                            <div class="form-group">
+                                <div class="col-lg-offset-2 col-lg-10">
+                                    <button class="btn btn-danger" type="submit">Salvar</button>
+                                    <a class="btn btn-white" href="@Url.Action("Index", "Aluno")">Voltar</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--   Core JS Files   -->
+@Scripts.Render("~/bundles/jquery")
+
+<!--   More JS   -->
+@Scripts.Render("~/bundles/AlunoFicha")

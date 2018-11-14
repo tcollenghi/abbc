@@ -1,0 +1,75 @@
+﻿@model ProjetoBase.DTO.UsuarioSimplesDTO
+@using ProjetoBase.Models
+@using ProjetoBase.DTO
+
+@{
+    ViewBag.Title = "Criar Usuário";
+    List<string> erros = ViewBag.erros;
+}
+
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros != null && erros.Count() > 0)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var erro in erros)
+                            {
+                                <li>@erro</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="rose">
+                        <i class="material-icons">mail_outline</i>
+                    </div>
+                    <h4 class="card-title">Cadastro de Usuário</h4>
+                    <div class="card-content">
+                        <form class="form-horizontal" action="@Url.Action("Create", "Usuarios")" method="post">
+                            <input type="hidden" name="ativo" value="true" />
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Nome</label>
+                                <div class="col-lg-10">
+                                    <input placeholder="Nome Usuário" class="form-control" value="@Model.nome" name="nome" autocomplete="off" required="" aria-required="true">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Login</label>
+                                <div class="col-lg-10">
+                                    <input class="form-control" placeholder="Login" value="@(Model.login)" name="login" autocomplete="off" required="" aria-required="true">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Senha</label>
+                                <div class="col-lg-10">
+                                    <input placeholder="Senha" type="password" class="form-control" value="@(Model.senha)" name="senha" autocomplete="off" required="" aria-required="true">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Email</label>
+                                <div class="col-lg-10">
+                                    <input placeholder="E-mail" type="email" class="form-control" value="@(Model.email)" name="email" autocomplete="off" required="" aria-required="true"> 
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Função</label>
+                                <div class="col-lg-10">
+                                    <input placeholder="Função" type="text" class="form-control" value="@(Model.funcao)" name="funcao" autocomplete="off" required="" aria-required="true">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-lg-offset-2 col-lg-10">
+                                    <button class="btn btn-info" type="submit">Salvar</button>
+                                    @*<a class="btn btn-white" href="@Url.Action("Index", "Usuarios")">Voltar</a>*@
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

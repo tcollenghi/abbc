@@ -1,0 +1,125 @@
+﻿@using ProjetoBase.Helpers
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>@ViewBag.Title ABBC </title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <!-- Add local styles, mostly for plugins css file -->
+    @if (IsSectionDefined("Styles"))
+    {@RenderSection("Styles", required: true)}
+    <!-- CSS -->
+    @Styles.Render("~/Content/cssMaterial")
+    @Styles.Render("~/font-awesome/css")
+    @Styles.Render("~/plugins/sweetAlertStyles")
+
+    <!-- Fonts and icons     -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="sidebar" data-active-color="red" data-background-color="white">
+            <!--
+                Tip 1: You can change the color of active element of the sidebar using: data-active-color="purple | blue | green | orange | red | rose"
+                Tip 2: you can also add an image using data-image tag
+                Tip 3: you can change the color of the sidebar with data-background-color="white | black"
+            -->
+            <div class="logo">
+                <img class="img-responsive" src="~/Images/ABBC_logo2.png" />
+            </div>
+            @Html.Partial("_Navigation")
+        </div>
+        <div class="main-panel">
+            <!-- Navbar -->
+            <!-- End Navbar -->
+            <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top " id="navigation-example">
+
+                <div class="container-fluid">
+                    <div class="navbar-minimize">
+                        <button id="minimizeSidebar" class="btn btn-round btn-white btn-fill btn-just-icon">
+                            <i class="material-icons visible-on-sidebar-regular">more_vert</i>
+                            <i class="material-icons visible-on-sidebar-mini">view_list</i>
+                        </button>
+                    </div>
+                    <form class="navbar-form">
+                        <div class="input-group no-border">
+                            <input type="text" value="" class="form-control" placeholder="Search...">
+                            <button type="submit" class="btn btn-white btn-round btn-just-icon">
+                                <i class="material-icons">search</i>
+                                <div class="ripple-container"></div>
+                            </button>
+                        </div>
+                    </form>
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand text-danger" href="#"> Academia Brasieira de Bombeiros Civis </a>
+                    </div>
+
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="@Url.Action("Logoff", "Autenticacao")">
+                                    <i class="material-icons">person</i>
+                                    <p class="hidden-lg hidden-md">Sair</p>
+                                </a>
+                            </li>
+                            <li class="separator hidden-lg hidden-md"></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="content">
+                @RenderBody()
+            </div>
+            <footer class="footer">
+                <div class="container-fluid">
+
+                    <p class="copyright pull-right">
+                        &copy;
+                        <script>document.write(new Date().getFullYear())</script>, Desenvolvido por <a href="#" target="_blank">ABBC</a>
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <!--   Core JS Files   -->
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/material")
+
+
+    @Scripts.Render("~/plugins/sweetAlert")
+
+    <!-- Handler for local scripts -->
+    @RenderSection("scripts", required: false)
+
+    <script>
+        $(document).ready(function(){
+
+            @{
+                var mensagens = SessionHelper.getAndEraseMensagensToView();
+                foreach (var msg in mensagens)
+                {
+                    @:alert('@(msg.primaria)');
+//                    @:swal('Good job!', '@(msg.primaria)', 'success');
+                }
+            }
+        });
+    </script>
+
+</body>
+
+</html>

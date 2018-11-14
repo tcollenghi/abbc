@@ -1,0 +1,96 @@
+﻿@model ProjetoBase.DTO.UsuarioSimplesDTO
+@using ProjetoBase.Helpers
+
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Login | ABBC</title>
+
+    @Styles.Render("~/Content/cssMaterial")
+    @Styles.Render("~/font-awesome/css")
+
+</head>
+
+<body>
+    <div class="col-md-4 col-sm-6 col-md-offset-4 col-sm-offset-3">
+        <form class="m-t" action="@Url.Action("Login","Autenticacao")" method="post">
+            <div class="card card-login card-hidden">
+                <div class="text-center">
+                    <br>
+                    <img src="~/Images/ABBC_logo.png" style="width:100px;">
+                    <p></p>
+                    <p>Entre com usuário e senha para acessar o sistema.</p>
+                </div>
+                <div class="card-content">
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="fa fa-user"></i>
+                        </span>
+                        <div class="form-group label-floating">
+                            <label class="control-label">Login</label>
+                            <input required="" name="login.login" value="@Model.login" type="text" class="form-control">
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="fa fa-lock"></i>
+                        </span>
+                        <div class="form-group label-floating">
+                            <label class="control-label">Senha</label>
+                            <input required="" name="login.senha" value="@Model.senha" type="password" class="form-control">
+                        </div>
+                    </div>
+                </div>
+                <div class="footer text-center">
+                    <button type="submit" class="btn btn-danger block full-width m-b">Entrar</button>
+                </div>
+                <div class="text-center">
+                    <p>Em caso de problema para logar, por favor, entre em contato com o desenvolvimento.</p>
+
+                    <p class="m-t"> <small>ABBC &copy; @DateTime.Now.Year </small> </p>
+                </div>
+            </div>
+        </form>
+    </div>
+    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/plugins/slimScroll")
+    @Scripts.Render("~/bundles/material")
+
+    <!-- Skin config script - only for demo purpose-->
+    @Scripts.Render("~/bundles/skinConfig")
+
+    <script>
+        $(document).ready(function(){
+            toastr.options = {
+                closeButton: true,
+                progressBar: true,
+                positionClass: "toast-bottom-right",
+                showMethod: 'slideDown',
+                timeOut: 8000
+            };
+            @{
+                var mensagens = SessionHelper.getAndEraseMensagensToView();
+                foreach (var msg in mensagens)
+                {
+                    @:toastr["@(msg.tipo)"]('@(msg.secundaria)','@(msg.primaria)');
+                            }
+            }
+            carregaNotificacoes();
+        });
+    </script>
+
+</body>
+
+</html>

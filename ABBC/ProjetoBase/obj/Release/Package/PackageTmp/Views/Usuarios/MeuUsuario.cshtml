@@ -1,0 +1,74 @@
+﻿@model ProjetoBase.DTO.UsuarioSimplesDTO
+@using ProjetoBase.Models
+@using ProjetoBase.DTO
+@using ProjetoBase.Helpers
+
+@{
+    ViewBag.Title = "Meu Usuário";
+    List<string> erros = ViewBag.erros;
+}
+
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros.Count() > 0)
+                {
+                    <div class="alert alert-danger alert-with-icon" data-notify="container">
+                        @foreach (var erro in erros)
+                        {
+                            <i class="material-icons" data-notify="icon">notifications</i>
+                        <button type="button" aria-hidden="true" class="close">
+                            <i class="material-icons">close</i>
+                        </button>
+                        <span data-notify="message">
+                            @erro
+                        </span>
+                        }
+                    </div>
+                }
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="red">
+                        <i class="material-icons">mode_edit</i>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="card-title">Meu Usuário</h4>
+                        <form class="form-horizontal" action="@Url.Action("MeuUsuario", "Usuarios")" method="post">
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Nome</label>
+                                <div class="col-lg-8">
+                                    <input placeholder="Nome Usuário" class="form-control border-input" value="@Model.nome" disabled>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Login</label>
+                                <div class="col-lg-8">
+                                    <input value="@(Model.login)" class="form-control border-input" placeholder="Login" disabled>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Email</label>
+                                <div class="col-lg-8">
+                                    <input placeholder="E-mail" type="email" class="form-control border-input" name="email" value="@Model.email" disabled>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-2 control-label">Alterar Senha</label>
+                                <div class="col-lg-8">
+                                    <input placeholder="Nova senha" type="password" class="form-control border-input" name="senha">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-lg-offset-2 col-lg-10">
+                                    <button class="btn btn-danger" type="submit">Alterar Senha</button>
+                                    @*<a class="btn btn-white" href="@Url.Action("Index", "Usuarios")">Voltar</a>*@
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

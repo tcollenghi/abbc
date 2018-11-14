@@ -1,0 +1,27 @@
+﻿@using ProjetoBase.Models
+@using ProjetoBase.DTO
+
+<div class="row border-bottom">
+    <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+            <form role="search" class="navbar-form-custom" method="get" action="@Url.Action("Buscar", "Dashboards")">
+                <div class="form-group">
+                    <input type="text" placeholder="Buscar..." class="form-control" name="termos" id="top-search">
+                </div>
+            </form>
+        </div>
+        <ul class="nav navbar-top-links navbar-right">
+            <li id="notificacao-placeholder" class="dropdown">
+                <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
+                    <i class="fa fa-bell"></i>  
+                </a>
+            </li>
+            <li>
+                <a href="@Url.Action("Logoff", "Autenticacao")">
+                    <i class="fa fa-sign-out"></i> Sair
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

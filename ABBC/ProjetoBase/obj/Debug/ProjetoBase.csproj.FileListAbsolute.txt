@@ -1,0 +1,473 @@
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\obj\Debug\ProjetoBase.csprojResolveAssemblyReference.cache
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.Cache
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\csc.exe
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\vbc.exe
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\ProjetoBase.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\ProjetoBase.pdb
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\EntityFramework.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Http.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Http.WebHost.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Razor.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\WebGrease.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Http.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.Razor.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\EntityFramework.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Projetos\99 - RESIDENCIA\ProjetoBase\ProjetoBase\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\csc.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\vbc.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\WebGrease.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M2.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M3.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M4.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M6.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M7.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.Cache
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M8.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M9.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M10.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csprojResolveAssemblyReference.cache
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M11.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M12.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M13.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M14.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\csc.exe
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\vbc.exe
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.pdb
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\WebGrease.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csprojResolveAssemblyReference.cache
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M2.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M3.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M4.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M6.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M7.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M8.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M9.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M10.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M11.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M12.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M13.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M14.resources
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.Cache
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Users\cleyton\Desktop\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\csc.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\vbc.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\WebGrease.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csprojResolveAssemblyReference.cache
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M2.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M3.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M4.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M6.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M7.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M8.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M9.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M10.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M11.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M12.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M13.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M14.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.Cache
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M15.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M16.resources
+C:\Projetos\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M17.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\csc.exe
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\vbc.exe
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\ProjetoBase.pdb
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\WebGrease.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.Razor.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M2.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M3.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M4.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M6.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M7.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M8.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M9.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M10.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M11.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M12.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M13.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M14.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M15.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M16.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M17.resources
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.Cache
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Users\cleyton\Desktop\99 - junior\99 - junior\BASE_SQL_MVC2201\BASE_SQL_MVC\BASE_SQL_MVC\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\csc.exe
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\vbc.exe
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\ProjetoBase.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\ProjetoBase.pdb
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\EntityFramework.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Razor.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\WebGrease.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Net.Http.Formatting.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\EntityFramework.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Http.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Http.WebHost.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.Razor.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\bin\System.Net.Http.Formatting.xml
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.csprojAssemblyReference.cache
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M2.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M3.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M4.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M6.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M7.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M8.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M9.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M10.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M11.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M12.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M13.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M14.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M15.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M16.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.Migrations.M17.resources
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.cache
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.csproj.CoreCompileInputs.cache
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.csproj.CopyComplete
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Users\cleyton.correia\Downloads\TIKEY V3\ProjetoBase\obj\Debug\ProjetoBase.pdb
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\csc.exe
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\vbc.exe
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\ProjetoBase.dll.config
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\ProjetoBase.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\ProjetoBase.pdb
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Antlr3.Runtime.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\DocumentFormat.OpenXml.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\EntityFramework.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\EntityFramework.SqlServer.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\IuguClient.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Newtonsoft.Json.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\RestSharp.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\SpreadsheetLight.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Helpers.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Mvc.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Optimization.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Razor.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\WebGrease.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\DocumentFormat.OpenXml.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\EntityFramework.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\EntityFramework.SqlServer.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Newtonsoft.Json.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\RestSharp.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\SpreadsheetLight.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Helpers.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Mvc.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Optimization.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.Razor.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\bin\Antlr3.Runtime.pdb
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.csprojAssemblyReference.cache
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m1.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m2.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m3.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m4.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m5.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m6.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m7.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m8.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m9.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m10.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m11.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m12.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m13.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m14.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.Migrations.m15.resources
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.csproj.GenerateResource.cache
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.csproj.CoreCompileInputs.cache
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.csproj.CopyComplete
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.dll
+C:\Users\cleyton.correia\Downloads\ABBC\ProjetoBase\obj\Debug\ProjetoBase.pdb

@@ -1,0 +1,140 @@
+﻿@using ProjetoBase.Models
+@using ProjetoBase.DTO
+@using ProjetoBase.DAO
+@{
+    ViewBag.Title = "Lista de Aluno";
+    List<string> erros = ViewBag.erros;
+}
+<div class="content">
+    <div class="animated fadeInDown">
+        <div class="row">
+            <div class="col-lg-12">
+                @if (erros != null && erros.Count() > 0)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var erro in erros)
+                            {
+                                <li>@erro</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="card card-stats">
+                        <div class="card-content">
+                            <form action="@Url.Action("Index", "Dashboards")" method="post">
+                                <a href="@Url.Action("Create", "Aluno")" class="btn btn-danger">Incluir Aluno<div class="ripple-container"></div></a>
+                                <a href="#" class="btn btn-facebook">Relatórios<div class="ripple-container"></div></a>
+                                @*<button type="submit" name="filtro" id="filtro" value="abertosPorMim" class="btn btn-info">Abertos por mim<div class="ripple-container"></div></button>*@
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header card-header-icon" data-background-color="red">
+                        <i class="material-icons">assignment</i>
+                    </div>
+                    <h4 class="card-title">Lista de Alunos</h4>
+                    <div class="card-content">
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center">#</th>
+                                        <th>Nome</th>
+                                        <th>Curso</th>
+                                        <th>Turma</th>
+                                        <th>Situação</th>
+                                        <th class="text-right">Ações</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in AlunoDao.FindAll())
+                                    {
+                                        <tr>
+                                            <td class="text-center">@item.ID</td>
+                                            <td>@item.Nome</td>
+                                            @if (CursoDao.FindAllByIDsCount(@item.Curso) > 0)
+                                            {
+                                                foreach (var itemC in CursoDao.FindAllByIDs(@item.Curso))
+                                                {
+                                                    <td>@itemC.Nome</td>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <td></td>
+                                            }
+
+                                            @if (TurmaDao.FindAllByIDsCount(@item.Turma) > 0)
+                                            {
+                                                foreach (var itemT in TurmaDao.FindAllByIDs(@item.Turma))
+                                                {
+                                                    <td>@itemT.Nome</td>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <td></td>
+                                            }
+                                            <td><span class="label label-success">Ativo</span></td>
+                                            <td class="td-actions text-right">
+                                                <button type="button" rel="tooltip" data-toggle="modal"
+                                                        data-id="@item.ID"
+                                                        data-nome="@item.Nome"
+                                                        data-email="@item.Email"
+                                                        data-telefone="@item.Telefone"
+                                                        data-nomecontratante="@item.Contratante"
+                                                        data-telefonecontrante="@item.TelefoneContratante"
+                                                        data-vencimento="@item.VencimentoParcela"
+                                                        data-cpf="@item.Cpf"
+                                                        data-horarioaula="@item.HorarioAula"
+                                                        data-diasdasemana="@item.DiasDaSemana"
+                                                        data-inicioaulas="@item.InicioDeAula"
+                                                        data-localdocurso="@item.LocalCurso"
+                                                        class="btn btn-info open-AddBookDialog">
+                                                    <i class="material-icons">info</i>
+                                                </button>
+                                                <a href="@Url.Action("Edit", "Aluno", new { IdAluno = item.ID})" class="btn btn-success">
+                                                    <i class="material-icons">edit</i>
+                                                </a>
+                                                <button onclick="chamaAjax(@item.ID);" type="button" rel="tooltip" class="btn btn-danger">
+                                                    <i class="material-icons">close</i>
+                                                </button>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Dados do Aluno</h4>
+            </div>
+            <div class="modal-body">
+                <span id="myModalContent"></span>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!--   Core JS Files   -->
+@Scripts.Render("~/bundles/jquery")
+<!--   More JS   -->
+@Scripts.Render("~/bundles/Aluno")
+
+
